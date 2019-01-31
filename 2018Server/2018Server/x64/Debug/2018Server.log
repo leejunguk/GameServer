@@ -1,0 +1,17 @@
+﻿  server_main.cpp
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(23): warning C4005: 'UNICODE': 매크로 재정의
+  d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp: note: 'UNICODE'의 이전 정의를 참조하십시오.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(177): warning C4477: 'wprintf' : 서식 문자열 '%S'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'SQLWCHAR *'입니다.
+  d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(177): note: 서식 문자열에서 '%lS'을(를) 사용하는 것이 좋습니다.
+  d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(177): note: 서식 문자열에서 '%llS'을(를) 사용하는 것이 좋습니다.
+  d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(177): note: 서식 문자열에서 '%LS'을(를) 사용하는 것이 좋습니다.
+  d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(177): note: 서식 문자열에서 '%wS'을(를) 사용하는 것이 좋습니다.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(511): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(512): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(528): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(529): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(539): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(548): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018server\2018server\server_main.cpp(557): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  2018Server.vcxproj -> D:\게임서버프로그래밍 수목최종 텀프로젝트 2013180030 이정욱\2018Server\x64\Debug\2018Server.exe
